@@ -1,0 +1,1103 @@
+[
+  {
+    "id": 6401,
+    "question": "Kvant biologiyasi fotosintezning qaysi bosqichini tushuntiradi?",
+    "options": [
+      "Energiyaning yuqori samaradorlik bilan o'tkazilishi (kvant koherentligi)",
+      "Suvning parchalanishi",
+      "ATF sintezi",
+      "Karbonat angidrid fiksatsiyasi"
+    ],
+    "answer": "Energiyaning yuqori samaradorlik bilan o'tkazilishi (kvant koherentligi)"
+  },
+  {
+    "id": 6402,
+    "question": "Qushlarning navigatsiyasida 'kvant kompas' (magnetoretseptsiya) qaysi oqsilga bog'liq?",
+    "options": [
+      "Kriptoxrom",
+      "Gemoglobin",
+      "Rodopsin",
+      "Mioglobin"
+    ],
+    "answer": "Kriptoxrom"
+  },
+  {
+    "id": 6403,
+    "question": "Astrobiologiyada 'Ekstremofillar' nima uchun muhim?",
+    "options": [
+      "Boshqa sayyoralardagi hayot imkoniyatlarini tushunish uchun",
+      "Faqat Yerni tozalash uchun",
+      "Laboratoriya tajribalari uchun",
+      "Oziq-ovqat uchun"
+    ],
+    "answer": "Boshqa sayyoralardagi hayot imkoniyatlarini tushunish uchun"
+  },
+  {
+    "id": 6404,
+    "question": "Koinotda ongli hayot ehtimolligini hisoblaydigan formula qanday ataladi?",
+    "options": [
+      "Dreyk formulasi",
+      "Eynshteyn formulasi",
+      "Nyuton qonuni",
+      "Mendel qonuni"
+    ],
+    "answer": "Dreyk formulasi"
+  },
+  {
+    "id": 6405,
+    "question": "Optogenetika usuli nimaga asoslangan?",
+    "options": [
+      "Yorug'lik yordamida neyronlar faolligini boshqarishga",
+      "Genlarni rasmga olishga",
+      "Ko'zni davolashga",
+      "Lazer bilan kesishga"
+    ],
+    "answer": "Yorug'lik yordamida neyronlar faolligini boshqarishga"
+  },
+  {
+    "id": 6406,
+    "question": "Konnektomika nimani o'rganadi?",
+    "options": [
+      "Miyadagi barcha nerv aloqalarining (sinapslarning) to'liq xaritasini",
+      "Faqat hujayralarni",
+      "Faqat genlarni",
+      "Faqat mushaklarni"
+    ],
+    "answer": "Miyadagi barcha nerv aloqalarining (sinapslarning) to'liq xaritasini"
+  },
+  {
+    "id": 6407,
+    "question": "Evo-Devo (Evolyutsion rivojlanish biologiyasi) nimani o'rganadi?",
+    "options": [
+      "Ontogenez va evolyutsiya o'rtasidagi bog'liqlikni",
+      "Faqat qazilmalarni",
+      "Faqat DNKni",
+      "Faqat hayvonlarni"
+    ],
+    "answer": "Ontogenez va evolyutsiya o'rtasidagi bog'liqlikni"
+  },
+  {
+    "id": 6408,
+    "question": "Hox-genlari vazifasi nima?",
+    "options": [
+      "Organizmlarning tana rejasini (segmentlar tartibini) belgilash",
+      "Ko'z rangini berish",
+      "Energiyani nazorat qilish",
+      "Immun tizimini yaratish"
+    ],
+    "answer": "Organizmlarning tana rejasini (segmentlar tartibini) belgilash"
+  },
+  {
+    "id": 6409,
+    "question": "Geya gipotezasi (Gaia hypothesis) muallifi kim?",
+    "options": [
+      "Jeyms Lavlok",
+      "Charlz Darvin",
+      "Vernadskiy",
+      "Aristotel"
+    ],
+    "answer": "Jeyms Lavlok"
+  },
+  {
+    "id": 6410,
+    "question": "Geya gipotezasi mazmuni nima?",
+    "options": [
+      "Yer tirik organizm kabi o'z-o'zini tartibga soluvchi murakkab tizimdir",
+      "Yer o'lik materiya",
+      "Hayot faqat suvda",
+      "Tabiat inson uchun"
+    ],
+    "answer": "Yer tirik organizm kabi o'z-o'zini tartibga soluvchi murakkab tizimdir"
+  },
+  {
+    "id": 6411,
+    "question": "Kriobiologiya nimani o'rganadi?",
+    "options": [
+      "Past haroratning tirik organizmlarga ta'sirini",
+      "Issiqlikni",
+      "Havo bosimini",
+      "Nurlanishni"
+    ],
+    "answer": "Past haroratning tirik organizmlarga ta'sirini"
+  },
+  {
+    "id": 6412,
+    "question": "Bioetika nima?",
+    "options": [
+      "Biologiya va tibbiyotdagi axloqiy muammolarni o'rganuvchi soha",
+      "Hayvonlar odobi",
+      "O'simliklar tarbiyasi",
+      "Fan tarixi"
+    ],
+    "answer": "Biologiya va tibbiyotdagi axloqiy muammolarni o'rganuvchi soha"
+  },
+  {
+    "id": 6413,
+    "question": "Tana a'zolarini o'stirishda ishlatiladigan 'organoidlar' nima?",
+    "options": [
+      "Laboratoriyada o'stirilgan organlarning kichik modellar",
+      "Sun'iy mashinalar",
+      "Dori turlari",
+      "Yangi mikroblar"
+    ],
+    "answer": "Laboratoriyada o'stirilgan organlarning kichik modellar"
+  },
+  {
+    "id": 6414,
+    "question": "Ksenotransplantatsiya nima?",
+    "options": [
+      "Hayvon a'zolarini insonga ko'chirib o'tkazish",
+      "Inson a'zosini insonga",
+      "Sun'iy organ qo'yish",
+      "Dori berish"
+    ],
+    "answer": "Hayvon a'zolarini insonga ko'chirib o'tkazish"
+  },
+  {
+    "id": 6415,
+    "question": "Xiral (Chiral) molekulalar biologiyada nima uchun muhim?",
+    "options": [
+      "Biologik molekulalar (L-aminokislotalar) o'ziga xos yo'nalishga ega bo'lgani uchun",
+      "Rangli bo'lgani uchun",
+      "Katta bo'lgani uchun",
+      "Suyuq bo'lgani uchun"
+    ],
+    "answer": "Biologik molekulalar (L-aminokislotalar) o'ziga xos yo'nalishga ega bo'lgani uchun"
+  },
+  {
+    "id": 6416,
+    "question": "Antropotsen nima?",
+    "options": [
+      "Inson faoliyati Yer ekotizimida asosiy kuchga aylangan hozirgi davr",
+      "Qadimgi davr",
+      "Muzlik davri",
+      "Dinozavrlar davri"
+    ],
+    "answer": "Inson faoliyati Yer ekotizimida asosiy kuchga aylangan hozirgi davr"
+  },
+  {
+    "id": 6417,
+    "question": "Neyroplastiklik nima?",
+    "options": [
+      "Miyaning yangi tajribalar asosida o'zgarishi va moslashishi",
+      "Miya qattiqligi",
+      "Miya o'limi",
+      "Miya hajmi"
+    ],
+    "answer": "Miyaning yangi tajribalar asosida o'zgarishi va moslashishi"
+  },
+  {
+    "id": 6418,
+    "question": "CRISPR/Cas9 texnologiyasi nima?",
+    "options": [
+      "Genomni tahrirlashning aniq va arzon usuli",
+      "Nusxa ko'chirish",
+      "Hujayra bo'lish",
+      "Virus o'ldirish"
+    ],
+    "answer": "Genomni tahrirlashning aniq va arzon usuli"
+  },
+  {
+    "id": 6419,
+    "question": "Enzimologiyada 'allosterik markaz' nima?",
+    "options": [
+      "Ferment faolligini boshqaruvchi (aktivlashtiruvchi yoki tormozlovchi) joy",
+      "Asosiy reaksiya joyi",
+      "Oqsil qobig'i",
+      "Suv kiradigan joy"
+    ],
+    "answer": "Ferment faolligini boshqaruvchi (aktivlashtiruvchi yoki tormozlovchi) joy"
+  },
+  {
+    "id": 6420,
+    "question": "Inson miyasida nechtaga yaqin neyron bor?",
+    "options": [
+      "Taxminan 86 milliard",
+      "1 million",
+      "1 trillion",
+      "10 milliard"
+    ],
+    "answer": "Taxminan 86 milliard"
+  },
+  {
+    "id": 6421,
+    "question": "Neyromediatorlarga misol keltiring?",
+    "options": [
+      "Dofamin, Serotonin, Atsetilxolin",
+      "Insulin, Glukagon",
+      "Gemorroy",
+      "Globin"
+    ],
+    "answer": "Dofamin, Serotonin, Atsetilxolin"
+  },
+  {
+    "id": 6422,
+    "question": "Tirik organizmlardagi 'lyuminessensiya' nima?",
+    "options": [
+      "Kimyoviy reaksiya natijasida nur taratish",
+      "Issiqlik ajratish",
+      "Elektr toki urishi",
+      "Rang o'zgarishi"
+    ],
+    "answer": "Kimyoviy reaksiya natijasida nur taratish"
+  },
+  {
+    "id": 6423,
+    "question": "Lyuminessensiya qaysi ferment yordamida amalga oshadi?",
+    "options": [
+      "Lyutsiferaza",
+      "Amilaza",
+      "Katalaza",
+      "Polimeraza"
+    ],
+    "answer": "Lyutsiferaza"
+  },
+  {
+    "id": 6424,
+    "question": "Biomimetika nima?",
+    "options": [
+      "Tabiatdagi g'oyalarni texnikaga tatbiq etish",
+      "Hayvonlarni rasmga olish",
+      "Genlarni nusxalash",
+      "O'simlik dori qilish"
+    ],
+    "answer": "Tabiatdagi g'oyalarni texnikaga tatbiq etish"
+  },
+  {
+    "id": 6425,
+    "question": "Nanoskopiya nima uchun kerak?",
+    "options": [
+      "Diffraksiya chegarasidan kichik (molekulyar) narsalarni ko'rish uchun",
+      "Tog'larni ko'rish",
+      "Yulduzlarni ko'rish",
+      "Baliq ko'rish"
+    ],
+    "answer": "Diffraksiya chegarasidan kichik (molekulyar) narsalarni ko'rish uchun"
+  },
+  {
+    "id": 6426,
+    "question": "Inson genomining necha foizi 'kodlamaydigan' DNK?",
+    "options": [
+      "Taxminan 98-99%",
+      "1%",
+      "50%",
+      "10%"
+    ],
+    "answer": "Taxminan 98-99%"
+  },
+  {
+    "id": 6427,
+    "question": "Junk DNA (keraksiz DNK) hozirgi kunda qanday qaraladi?",
+    "options": [
+      "Ular boshqaruvchi va strukturaviy muhim vazifalarni bajaradi",
+      "Haqiqatdan foydasiz",
+      "Faqat viruslar qoldig'i",
+      "Xato deb qaraladi"
+    ],
+    "answer": "Ular boshqaruvchi va strukturaviy muhim vazifalarni bajaradi"
+  },
+  {
+    "id": 6428,
+    "question": "Gorizontal gen ko'chishi (HGT) nima?",
+    "options": [
+      "Genlarning nasldan-naslga emas, organizmlar orasida almashinuvi",
+      "Vertikal ko'chish",
+      "Mutatsiya turi",
+      "Faqat o'simlikda"
+    ],
+    "answer": "Genlarning nasldan-naslga emas, organizmlar orasida almashinuvi"
+  },
+  {
+    "id": 6429,
+    "question": "Ksenobiologiya nima?",
+    "options": [
+      "Tabiatda uchramaydigan, sun'iy yaratilgan hayot shakllarini o'rganish",
+      "Chet el hayvonlari",
+      "Yulduzlar",
+      "Tog'lar"
+    ],
+    "answer": "Tabiatda uchramaydigan, sun'iy yaratilgan hayot shakllarini o'rganish"
+  },
+  {
+    "id": 6430,
+    "question": "Sintetik DNK (XNA) nima?",
+    "options": [
+      "Sun'iy yaratilgan nuklein kislotalar",
+      "Oddiy DNK",
+      "Virus DNK",
+      "Oqsil"
+    ],
+    "answer": "Sun'iy yaratilgan nuklein kislotalar"
+  },
+  {
+    "id": 6431,
+    "question": "Dizayner chaqaloqlar (Designer babies) tushunchasi nimani anglatadi?",
+    "options": [
+      "Genetik tahrirlash orqali belgilari tanlangan bolalar",
+      "Chiroyli kiyingan",
+      "O'yinchoq",
+      "Kichik robot"
+    ],
+    "answer": "Genetik tahrirlash orqali belgilari tanlangan bolalar"
+  },
+  {
+    "id": 6432,
+    "question": "Tirik organizmlardagi 'entropiya' nima?",
+    "options": [
+      "Tartibsizlik darajasi (hayot entropiyani kamaytirishga intiladi)",
+      "Energiya",
+      "Issiqlik",
+      "Bosim"
+    ],
+    "answer": "Tartibsizlik darajasi (hayot entropiyani kamaytirishga intiladi)"
+  },
+  {
+    "id": 6433,
+    "question": "Negentropiya (salbiy entropiya) nima?",
+    "options": [
+      "Tashqi energiya hisobiga tizim tartibining saqlanishi",
+      "Tartibsizlik ortishi",
+      "To'xtash",
+      "O'lim"
+    ],
+    "answer": "Tashqi energiya hisobiga tizim tartibining saqlanishi"
+  },
+  {
+    "id": 6434,
+    "question": "Gomeorezis nima?",
+    "options": [
+      "Rivojlanish jarayonining barqarorligi",
+      "Muvozanat",
+      "O'zgarish",
+      "Kasalik"
+    ],
+    "answer": "Rivojlanish jarayonining barqarorligi"
+  },
+  {
+    "id": 6435,
+    "question": "Termodinamikaning ikkinchi qonuni tirik tizimlarda qanday amal qiladi?",
+    "options": [
+      "Ochiq tizim bo'lgani uchun energiya almashinuvi orqali tartib saqlanadi",
+      "Amal qilmaydi",
+      "Tartib doim buziladi",
+      "Hech qanday"
+    ],
+    "answer": "Ochiq tizim bo'lgani uchun energiya almashinuvi orqali tartib saqlanadi"
+  },
+  {
+    "id": 6436,
+    "question": "Prigojin nazariyasi (dissipativ strukturalar) nima?",
+    "options": [
+      "Ochiq tizimlarda o'z-o'zidan tartib paydo bo'lishi",
+      "Tizimning parchalanishi",
+      "Muzlash",
+      "Qizish"
+    ],
+    "answer": "Ochiq tizimlarda o'z-o'zidan tartib paydo bo'lishi"
+  },
+  {
+    "id": 6437,
+    "question": "Biosemiotika nima?",
+    "options": [
+      "Tirik tizimlardagi belgilar va axborot almashinuvini o'rganuvchi fan",
+      "Tog' jinslari",
+      "Yulduzlar",
+      "Mashinalar"
+    ],
+    "answer": "Tirik tizimlardagi belgilar va axborot almashinuvini o'rganuvchi fan"
+  },
+  {
+    "id": 6438,
+    "question": "Kognitiv biologiya nima?",
+    "options": [
+      "Hujayradan tortib organizmgacha bo'lgan axborot qayta ishlash jarayonlari",
+      "Faqat psixologiya",
+      "Faqat miya",
+      "Darslik"
+    ],
+    "answer": "Hujayradan tortib organizmgacha bo'lgan axborot qayta ishlash jarayonlari"
+  },
+  {
+    "id": 6439,
+    "question": "Inson tanasidagi 'Mikrobiom' vazifasi?",
+    "options": [
+      "Immunitet, hazm va metabolizmni tartibga solish",
+      "Faqat kasallik keltirish",
+      "Hech qanday",
+      "Zarar berish"
+    ],
+    "answer": "Immunitet, hazm va metabolizmni tartibga solish"
+  },
+  {
+    "id": 6440,
+    "question": "Fekal transplantatsiya nima uchun ishlatiladi?",
+    "options": [
+      "Ichak mikroflorasini tiklash uchun",
+      "Yuzni tozalash",
+      "Suyakni davolash",
+      "Qon quyish"
+    ],
+    "answer": "Ichak mikroflorasini tiklash uchun"
+  },
+  {
+    "id": 6441,
+    "question": "Dunyodagi eng katta tirik organizm qaysi (maydon bo'yicha)?",
+    "options": [
+      "Zamburug' (Armillaria ostoyae)",
+      "Kit",
+      "Fil",
+      "Sequoia daraxti"
+    ],
+    "answer": "Zamburug' (Armillaria ostoyae)"
+  },
+  {
+    "id": 6442,
+    "question": "Pando nima?",
+    "options": [
+      "Bitta ildiz tizimiga ega bo'lgan teraklar klonli koloniyasi",
+      "Ayiq turi",
+      "Baliq turi",
+      "Qush turi"
+    ],
+    "answer": "Bitta ildiz tizimiga ega bo'lgan teraklar klonli koloniyasi"
+  },
+  {
+    "id": 6443,
+    "question": "Sut emizuvchilar genomining necha foizi virus qoldiqlaridan (endogen retroviruslar) iborat?",
+    "options": [
+      "Taxminan 8%",
+      "1%",
+      "50%",
+      "90%"
+    ],
+    "answer": "Taxminan 8%"
+  },
+  {
+    "id": 6444,
+    "question": "Platsentaning paydo bo'lishida qaysi virusli oqsil muhim rol o'ynagan?",
+    "options": [
+      "Sintsitin",
+      "Globin",
+      "Kalsiy",
+      "Keratin"
+    ],
+    "answer": "Sintsitin"
+  },
+  {
+    "id": 6445,
+    "question": "Telomerlarning qisqarishi nima bilan bog'liq?",
+    "options": [
+      "Hujayraning qarishi bilan",
+      "Hujayra o'sishi",
+      "Bo'linishi to'xtashi",
+      "O'limi yo'qligi"
+    ],
+    "answer": "Hujayraning qarishi bilan"
+  },
+  {
+    "id": 6446,
+    "question": "Hayvonat dunyosidagi 'O'lmas meduza' (Turritopsis dohrnii) siri nimada?",
+    "options": [
+      "Transdifferensiatsiya (hujayralarini yoshartira olishi)",
+      "Uzoq yashashi",
+      "Hech qachon o'lmasligi",
+      "Tez ko'payishi"
+    ],
+    "answer": "Transdifferensiatsiya (hujayralarini yoshartira olishi)"
+  },
+  {
+    "id": 6447,
+    "question": "Muzlik ostidan topilgan qadimiy viruslar qanday ataladi?",
+    "options": [
+      "Pithovirus va boshqalar (Giant viruses)",
+      "Kichik viruslar",
+      "Gripp",
+      "OITS"
+    ],
+    "answer": "Pithovirus va boshqalar (Giant viruses)"
+  },
+  {
+    "id": 6448,
+    "question": "Biosfera 2 (Biosphere 2) loyihasi maqsadi nima edi?",
+    "options": [
+      "Yopiq ekotizimda hayotni o'rganish (kosmik koloniyalar uchun)",
+      "Yer ostini o'rganish",
+      "Baliq boqish",
+      "Daraxt ekish"
+    ],
+    "answer": "Yopiq ekotizimda hayotni o'rganish (kosmik koloniyalar uchun)"
+  },
+  {
+    "id": 6449,
+    "question": "O'simliklar o'zaro axborot almashish uchun nima ishlatadi?",
+    "options": [
+      "Kimyoviy moddalar va ildiz mikorizasi (Wood Wide Web)",
+      "Ovoz",
+      "Nurlar",
+      "Hech nima"
+    ],
+    "answer": "Kimyoviy moddalar va ildiz mikorizasi (Wood Wide Web)"
+  },
+  {
+    "id": 6450,
+    "question": "Kripteks nima?",
+    "options": [
+      "Biologiyaga oid emas (bu savol o'rniga: 'Gen terapiyasi' nima?)",
+      "Nuqsonli genlarni sog'lomiga almashtirish orqali davolash",
+      "Dori",
+      "Kitob",
+      "O'yin"
+    ],
+    "answer": "Nuqsonli genlarni sog'lomiga almashtirish orqali davolash"
+  },
+  {
+    "id": 6451,
+    "question": "Miyelin qobig'i vazifasi nima?",
+    "options": [
+      "Nerv impulslarining tezligini oshirish",
+      "Miyani sovutish",
+      "Qonni tozalash",
+      "Suyakni mustahkamlash"
+    ],
+    "answer": "Nerv impulslarining tezligini oshirish"
+  },
+  {
+    "id": 6452,
+    "question": "Pratseklar (Protocells) nima?",
+    "options": [
+      "Hayotning paydo bo'lishidan oldingi sodda hujayra modellari",
+      "Viruslar",
+      "Bakteriyalar",
+      "Yadro"
+    ],
+    "answer": "Hayotning paydo bo'lishidan oldingi sodda hujayra modellari"
+  },
+  {
+    "id": 6453,
+    "question": "Gidrotermal buloqlar atrofidagi hayot nima hisobiga mavjud?",
+    "options": [
+      "Xemosintez (kimyoviy energiya)",
+      "Fotosintez",
+      "Quyosh nuri",
+      "Hech nima"
+    ],
+    "answer": "Xemosintez (kimyoviy energiya)"
+  },
+  {
+    "id": 6454,
+    "question": "Xemosintezni kim kashf qilgan?",
+    "options": [
+      "S.N. Vinogradskiy",
+      "Lui Paster",
+      "Darvin",
+      "Timiryazev"
+    ],
+    "answer": "S.N. Vinogradskiy"
+  },
+  {
+    "id": 6455,
+    "question": "Biolitlar nima?",
+    "options": [
+      "Organizmlar ishtirokida hosil bo'lgan jinslar (masalan, bo'r, ohaktosh)",
+      "Oddiy toshlar",
+      "Metall",
+      "Suv"
+    ],
+    "answer": "Organizmlar ishtirokida hosil bo'lgan jinslar (masalan, bo'r, ohaktosh)"
+  },
+  {
+    "id": 6456,
+    "question": "Eng chidamli tirik organizm (radiatsiya va vakuumga)?",
+    "options": [
+      "Tardigrada (Sekinurar)",
+      "Bakteriya",
+      "Tarakan",
+      "Sichqon"
+    ],
+    "answer": "Tardigrada (Sekinurar)"
+  },
+  {
+    "id": 6457,
+    "question": "Sekinurarlar (Tardigrada) qanday holatda yuzlab yil yashay oladi?",
+    "options": [
+      "Anabioz (kriptobioz)",
+      "Uxlash",
+      "Yugurish",
+      "O'lish"
+    ],
+    "answer": "Anabioz (kriptobioz)"
+  },
+  {
+    "id": 6458,
+    "question": "Inson miyasining necha foizi ishlaydi?",
+    "options": [
+      "Hamma qismi (turli vazifalar uchun)",
+      "10%",
+      "5%",
+      "50%"
+    ],
+    "answer": "Hamma qismi (turli vazifalar uchun)"
+  },
+  {
+    "id": 6459,
+    "question": "Eynsteyn miyasi nimasi bilan farq qilgan?",
+    "options": [
+      "Pariyetal bo'lagi kattaroq bo'lgan",
+      "O'ta og'ir bo'lgan",
+      "Suyuq bo'lgan",
+      "Hech nima bilan"
+    ],
+    "answer": "Pariyetal bo'lagi kattaroq bo'lgan"
+  },
+  {
+    "id": 6460,
+    "question": "Ko'rshapalaklar qorong'uda qanday harakat qiladi?",
+    "options": [
+      "Exolokatsiya yordamida",
+      "Ko'zlari bilan",
+      "Hidi bilan",
+      "Qulog'i bilan emas"
+    ],
+    "answer": "Exolokatsiya yordamida"
+  },
+  {
+    "id": 6461,
+    "question": "Exolokatsiya nima?",
+    "options": [
+      "Tovush to'lqinlarining qaytishi orqali masofani aniqlash",
+      "Ko'rish",
+      "Uchish",
+      "Yugurish"
+    ],
+    "answer": "Tovush to'lqinlarining qaytishi orqali masofani aniqlash"
+  },
+  {
+    "id": 6462,
+    "question": "Feromonlar nima?",
+    "options": [
+      "Hayvonlar o'zaro aloqa qilish uchun ajratadigan hidli moddalar",
+      "Dori",
+      "Zahar",
+      "Vitamin"
+    ],
+    "answer": "Hayvonlar o'zaro aloqa qilish uchun ajratadigan hidli moddalar"
+  },
+  {
+    "id": 6463,
+    "question": "Bionika nima?",
+    "options": [
+      "Biologik tizimlarni texnikaga tatbiq etish",
+      "Tabiatni rasmga olish",
+      "Genetikani o'qish",
+      "O'simlik dori qilish"
+    ],
+    "answer": "Biologik tizimlarni texnikaga tatbiq etish"
+  },
+  {
+    "id": 6464,
+    "question": "Kiborg (Cyborg) nima?",
+    "options": [
+      "Biologik va texnik qismlardan iborat organizm",
+      "Faqat robot",
+      "Faqat odam",
+      "Yangi tur"
+    ],
+    "answer": "Biologik va texnik qismlardan iborat organizm"
+  },
+  {
+    "id": 6465,
+    "question": "Transhumanizm nima?",
+    "options": [
+      "Texnologiya orqali inson imkoniyatlarini (umr, aql) cheksiz oshirish harakati",
+      "Tarix",
+      "Darslik",
+      "O'yin"
+    ],
+    "answer": "Texnologiya orqali inson imkoniyatlarini (umr, aql) cheksiz oshirish harakati"
+  },
+  {
+    "id": 6466,
+    "question": "O'rgimchak to'ri (ipak) nimadan iborat?",
+    "options": [
+      "Oqsil (fibroin)",
+      "Uglevod",
+      "Yog'",
+      "Mineral"
+    ],
+    "answer": "Oqsil (fibroin)"
+  },
+  {
+    "id": 6467,
+    "question": "O'rgimchak to'rining mustahkamligi nimaga teng?",
+    "options": [
+      "Po'latdan kuchliroq (vazniga nisbatan)",
+      "Ipakka teng",
+      "Ipga teng",
+      "Mo'rt"
+    ],
+    "answer": "Po'latdan kuchliroq (vazniga nisbatan)"
+  },
+  {
+    "id": 6468,
+    "question": "Bioyoqilg'i (Biofuel) nimadan olinadi?",
+    "options": [
+      "O'simliklar va suvo'tlardan",
+      "Toshdan",
+      "Suvdan",
+      "Havo"
+    ],
+    "answer": "O'simliklar va suvo'tlardan"
+  },
+  {
+    "id": 6469,
+    "question": "Bioplastik nima?",
+    "options": [
+      "Tabiiy parchalanadigan (biodegradable) plastiklar",
+      "Oddiy plastik",
+      "Shisha",
+      "Temir"
+    ],
+    "answer": "Tabiiy parchalanadigan (biodegradable) plastiklar"
+  },
+  {
+    "id": 6470,
+    "question": "Bioremediatsiya nima?",
+    "options": [
+      "Mikroorganizmlar yordamida atrof-muhitni tozalash",
+      "Atrofni ifloslash",
+      "Daraxt kesish",
+      "Baliq tutish"
+    ],
+    "answer": "Mikroorganizmlar yordamida atrof-muhitni tozalash"
+  },
+  {
+    "id": 6471,
+    "question": "Qaysi qush havoda uxlab ucha oladi?",
+    "options": [
+      "Strijlar (Frigate birds)",
+      "Burgut",
+      "Kaptar",
+      "Chumchuq"
+    ],
+    "answer": "Strijlar (Frigate birds)"
+  },
+  {
+    "id": 6472,
+    "question": "Dunyodagi eng qadimgi tirik daraxt (taxminan 5000 yosh)?",
+    "options": [
+      "Metuselah (qarag'ay)",
+      "Baobab",
+      "Eman",
+      "Terak"
+    ],
+    "answer": "Metuselah (qarag'ay)"
+  },
+  {
+    "id": 6473,
+    "question": "Eng chuqurda yashovchi baliqlar?",
+    "options": [
+      "Mariana chuqurligi baliqlari (Snailfish)",
+      "Akula",
+      "Kit",
+      "Delfin"
+    ],
+    "answer": "Mariana chuqurligi baliqlari (Snailfish)"
+  },
+  {
+    "id": 6474,
+    "question": "Inson DNKsining necha foizi shimpanze bilan bir xil?",
+    "options": [
+      "Taxminan 98-99%",
+      "50%",
+      "10%",
+      "100%"
+    ],
+    "answer": "Taxminan 98-99%"
+  },
+  {
+    "id": 6475,
+    "question": "Genomikasida 'Y-xromosoma Adam' nima?",
+    "options": [
+      "Insoniyatning eng yaqin umumiy erkak ajdodi",
+      "Birinchi odam",
+      "Maymun",
+      "Robot"
+    ],
+    "answer": "Insoniyatning eng yaqin umumiy erkak ajdodi"
+  },
+  {
+    "id": 6476,
+    "question": "Mitoxondrial Eva nima?",
+    "options": [
+      "Insoniyatning eng yaqin umumiy ayol ajdodi (mitoxondriya orqali)",
+      "Momo havo",
+      "Yulduz",
+      "Hujayra"
+    ],
+    "answer": "Insoniyatning eng yaqin umumiy ayol ajdodi (mitoxondriya orqali)"
+  },
+  {
+    "id": 6477,
+    "question": "Nega mitoxondriya faqat ona tomondan o'tadi?",
+    "options": [
+      "Spermatozoid mitoxondriyalari urug'lanishda yo'q bo'lib ketadi",
+      "Otaniki yo'q",
+      "Faqat onada bor",
+      "Xato fikr"
+    ],
+    "answer": "Spermatozoid mitoxondriyalari urug'lanishda yo'q bo'lib ketadi"
+  },
+  {
+    "id": 6478,
+    "question": "Endosimbioz nazariyasi (Lin Margulis) nima deydi?",
+    "options": [
+      "Mitoxondriya va xloroplastlar qachonlardir mustaqil bakteriya bo'lgan",
+      "Yadro bo'lingan",
+      "Hujayra o'lgan",
+      "Hayot suvdan kelgan"
+    ],
+    "answer": "Mitoxondriya va xloroplastlar qachonlardir mustaqil bakteriya bo'lgan"
+  },
+  {
+    "id": 6479,
+    "question": "Gidrolokatsiya nima?",
+    "options": [
+      "Suv ostidagi ob'ektlarni aniqlash",
+      "Havo xaritasi",
+      "Yulduz xaritasi",
+      "Tuproq tahlili"
+    ],
+    "answer": "Suv ostidagi ob'ektlarni aniqlash"
+  },
+  {
+    "id": 6480,
+    "question": "Inson ko'zi necha megapikselga teng (taxminan)?",
+    "options": [
+      "576 megapiksel",
+      "10 MP",
+      "100 MP",
+      "1000 MP"
+    ],
+    "answer": "576 megapiksel"
+  },
+  {
+    "id": 6481,
+    "question": "Inson burni necha xil hidni ajrata oladi?",
+    "options": [
+      "1 trilliondan ortiq",
+      "100 ta",
+      "1000 ta",
+      "1 mln"
+    ],
+    "answer": "1 trilliondan ortiq"
+  },
+  {
+    "id": 6482,
+    "question": "DNKning 1 grammiga qancha ma'lumot sig'ishi mumkin?",
+    "options": [
+      "215 petabayt (millionlab GB)",
+      "1 GB",
+      "1 MB",
+      "1 KB"
+    ],
+    "answer": "215 petabayt (millionlab GB)"
+  },
+  {
+    "id": 6483,
+    "question": "Dunyodagi eng zaharli jonzot qaysi?",
+    "options": [
+      "Meduza (Dengiz asalarisi)",
+      "Ilon",
+      "O'rgimchak",
+      "Chayon"
+    ],
+    "answer": "Meduza (Dengiz asalarisi)"
+  },
+  {
+    "id": 6484,
+    "question": "Tirnoq va soch nimadan iborat?",
+    "options": [
+      "Keratin oqsili",
+      "Kalsiy",
+      "Yog'",
+      "Shakar"
+    ],
+    "answer": "Keratin oqsili"
+  },
+  {
+    "id": 6485,
+    "question": "Eng katta urug' qaysi o'simlikda?",
+    "options": [
+      "Seyshel palmasi (Lodoicea)",
+      "Yong'oq",
+      "Qovoq",
+      "Tarvuz"
+    ],
+    "answer": "Seyshel palmasi (Lodoicea)"
+  },
+  {
+    "id": 6486,
+    "question": "O'simliklar 'og'riq' seza oladimi?",
+    "options": [
+      "Nerv tizimi yo'q, lekin zarar yetganda kimyoviy signallar tarqatadi",
+      "Ha, baqiradi",
+      "Yo'q, hech nima sezmaydi",
+      "Faqat tunda"
+    ],
+    "answer": "Nerv tizimi yo'q, lekin zarar yetganda kimyoviy signallar tarqatadi"
+  },
+  {
+    "id": 6487,
+    "question": "Insonning eng uzun nervi qaysi?",
+    "options": [
+      "O'tirg'ich nervi (Nervus ischiadicus)",
+      "Yuz nervi",
+      "Ko'z nervi",
+      "Quloq nervi"
+    ],
+    "answer": "O'tirg'ich nervi (Nervus ischiadicus)"
+  },
+  {
+    "id": 6488,
+    "question": "Sinesteziya nima?",
+    "options": [
+      "Sezgi organlarining aralashib ketishi (masalan, rangni eshitish)",
+      "Kasalik",
+      "O'lim",
+      "Harakat"
+    ],
+    "answer": "Sezgi organlarining aralashib ketishi (masalan, rangni eshitish)"
+  },
+  {
+    "id": 6489,
+    "question": "Miyadagi 'Neyrogenez' nima?",
+    "options": [
+      "Yangi neyronlarning hosil bo'lishi",
+      "Neyronlar o'limi",
+      "Neyronlar qisqarishi",
+      "Hech nima"
+    ],
+    "answer": "Yangi neyronlarning hosil bo'lishi"
+  },
+  {
+    "id": 6490,
+    "question": "Inson miyasining energiya iste'moli qancha?",
+    "options": [
+      "Taxminan 20 vatt (lampochka kabi)",
+      "1000 vatt",
+      "1 vatt",
+      "0 vatt"
+    ],
+    "answer": "Taxminan 20 vatt (lampochka kabi)"
+  },
+  {
+    "id": 6491,
+    "question": "Kvant tunnel effekti biologiyada qayerda uchraydi?",
+    "options": [
+      "Enzimatik reaksiyalar va DNK mutatsiyalarida",
+      "Nafas olishda",
+      "Yugurishda",
+      "Uxlaganda"
+    ],
+    "answer": "Enzimatik reaksiyalar va DNK mutatsiyalarida"
+  },
+  {
+    "id": 6492,
+    "question": "Bio-lyuminessensiyaning maqsadi?",
+    "options": [
+      "Yirtqichdan himoya, o'ziga jalb qilish yoki aloqa",
+      "Sovutish",
+      "Isitish",
+      "Uxlatish"
+    ],
+    "answer": "Yirtqichdan himoya, o'ziga jalb qilish yoki aloqa"
+  },
+  {
+    "id": 6493,
+    "question": "Inson vujudidagi hamma DNKlar ulab chiqilsa qancha masofaga yetadi?",
+    "options": [
+      "Quyosh tizimidan chiqib ketadi (Plutongacha va qaytib)",
+      "1 metr",
+      "1 km",
+      "Oyga yetadi xolos"
+    ],
+    "answer": "Quyosh tizimidan chiqib ketadi (Plutongacha va qaytib)"
+  },
+  {
+    "id": 6494,
+    "question": "Platsentar sut emizuvchilar ajdodi qachon yashagan?",
+    "options": [
+      "Taxminan 65 million yil oldin (bo'r davri oxiri)",
+      "1 million yil",
+      "10 milliard yil",
+      "Kecha"
+    ],
+    "answer": "Taxminan 65 million yil oldin (bo'r davri oxiri)"
+  },
+  {
+    "id": 6495,
+    "question": "Biologik qurol nima?",
+    "options": [
+      "Bakteriya, virus yoki toksinlarni zarar yetkazish uchun ishlatish",
+      "Oddiy qurol",
+      "Tosh",
+      "Suv"
+    ],
+    "answer": "Bakteriya, virus yoki toksinlarni zarar yetkazish uchun ishlatish"
+  },
+  {
+    "id": 6496,
+    "question": "Xalqaro 'Qizil ro'yxat' (IUCN) nima?",
+    "options": [
+      "Dunyo miqyosida yo'qolish xavfi bor turlar ro'yxati",
+      "Kitoblar ro'yxati",
+      "Davlatlar",
+      "O'yin"
+    ],
+    "answer": "Dunyo miqyosida yo'qolish xavfi bor turlar ro'yxati"
+  },
+  {
+    "id": 6497,
+    "question": "Hujayra ichidagi 'molekulyar motorlar' (kinezin, dinein) nima tashiydi?",
+    "options": [
+      "Vezikulalar va organoidlarni mikronaychalar bo'ylab",
+      "Suv",
+      "Havo",
+      "Faqat ATF"
+    ],
+    "answer": "Vezikulalar va organoidlarni mikronaychalar bo'ylab"
+  },
+  {
+    "id": 6498,
+    "question": "Dunyodagi eng katta viruslar guruhi?",
+    "options": [
+      "Mimi-viruslar (Mimiviridae)",
+      "Gripp",
+      "OITS",
+      "Bakteriofag"
+    ],
+    "answer": "Mimi-viruslar (Mimiviridae)"
+  },
+  {
+    "id": 6499,
+    "question": "Biologiya fanining kelajagi nima bilan bog'liq?",
+    "options": [
+      "Genetika, nanotexnologiya va sun'iy intellekt integratsiyasi bilan",
+      "Faqat kitob o'qish",
+      "Faqat hayvon boqish",
+      "Hech nima"
+    ],
+    "answer": "Genetika, nanotexnologiya va sun'iy intellekt integratsiyasi bilan"
+  },
+  {
+    "id": 6500,
+    "question": "Hayot nima?",
+    "options": [
+      "Materiyaning yuqori darajada tartiblangan, o'z-o'zini nusxalaydigan va metabolizmga ega shakli",
+      "Shunchaki harakat",
+      "Suv yig'indisi",
+      "Tasodif"
+    ],
+    "answer": "Materiyaning yuqori darajada tartiblangan, o'z-o'zini nusxalaydigan va metabolizmga ega shakli"
+  }
+]
